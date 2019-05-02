@@ -1,5 +1,7 @@
 # Usage: python3 path/to/aip_av.py workflow_type path/to/aips_directory department
 
+# workflow_type choices are: 'dpx', 'mkv', 'mov', 'mxf'
+
 # Prepares audiovisual data for ingest into the UGA Libraries Digital Preservation Storage System as an AIP by running a series of scripts in sequence:
 
 #  1. duplicate_check.py checks that an aip with the same aip-id isn't already in local storage.
