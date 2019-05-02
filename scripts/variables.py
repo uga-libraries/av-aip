@@ -11,6 +11,7 @@ ingest_server = 'INSERT PATH HERE'
 scripts = 'INSERT PATH HERE'
 saxon = 'INSERT PATH HERE'
 stylesheet = 'INSERT PATH HERE'
+xsd = 'INSERT PATH HERE'
 prepare_bag = 'INSERT PATH HERE'
 
 
