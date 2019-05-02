@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:53 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-038-er-000001_Autobiography/objects/MODCON.1</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">MODCON.1</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">18682</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">198beb8cc6e5b3cd3f23866c36c60e8d</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">799878832000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="148">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="31" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="96" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="72" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="143" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="27" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="24" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="33" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:53 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-038-er-000001_Autobiography/objects/MODCON.2</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">MODCON.2</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">64070</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5f4b0e2cf5ed57a51ab8629d003330cd</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">824859298000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="191">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="59" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="132" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="114" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="184" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="58" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="26" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="62" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:53 PM">
+  <identification>
+    <identity format="WordPerfect Document" mimetype="application/vnd.wordperfect" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <version toolname="Droid" toolversion="6.3">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/44</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-038-er-000001_Autobiography/objects/MODCON.3</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">MODCON.3</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">19902</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7b947d4f4bf30dd8c8122d07c24d4e3f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">827607902000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="426">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="86" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="411" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="393" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="409" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="85" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="363" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="125" />
+  </statistics>
+</fits>
+
+</combined-fits>

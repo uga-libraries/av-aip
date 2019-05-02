@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:10:05 22:52:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-10-05T22:52:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:10:05 19:38:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-10-05 15:38:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.10.5.00.BattlePlan.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.10.5.00.BattlePlan.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">29184</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">14bf1a0ac1ac002fa9668418c65e84d8</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">970789952000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">171</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">976</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">8</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="209">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="18" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="51" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="199" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="24" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="15" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="8" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="28" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:12:07 21:24:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2001-12-07T21:24:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:12:07 21:23:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2001-12-07 16:23:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 01/ma.12.7.01.SRStour.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.12.7.01.SRStour.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">30208</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">59fd4b60c6aa2428601b4cc9eae1b166</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1007763862000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">174</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">994</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">US House of Represenatives</author>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">8</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="231">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="26" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="59" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="212" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="39" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="22" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="17" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="45" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2002:01:29 22:17:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2002-01-29T22:17:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2002:01:29 16:54:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2002-01-29 11:54:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/Ma 02/ma.1.29.02.SOTUfeeds.2.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.1.29.02.SOTUfeeds.2.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">29696</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2de7dfcc0d165c501ac0ce1235472753</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1012346266000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">191</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">1094</characterCount>
+      <title toolname="Exiftool" toolversion="10.00">ATTENTION PRESS SECRETARIES</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="249">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="32" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="86" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="229" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="42" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="25" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="21" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="55" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2002:01:28 17:08:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2002-01-28T17:08:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2002:01:28 17:08:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2002-01-28 12:08:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/Ma 02/ma.1.29.02.SOTUfeeds.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.1.29.02.SOTUfeeds.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">19968</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b0e59af8bea165dbc0745b9d7d338995</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1012241304000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">128</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">733</characterCount>
+      <title toolname="Exiftool" toolversion="10.00">ATTENTION PRESS SECRETARIES</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">kbarbour</author>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">6</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="275">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="35" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="112" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="242" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="47" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="29" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="25" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="53" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:02:23 18:24:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-02-23T18:24:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:02:23 17:51:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-02-23 12:51:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.2.24.00.Books.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.2.24.00.Books.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">29696</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">945e6f85c1b26d7c6f84d72828c56f2c</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">951333898000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">180</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">1031</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">8</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="215">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="64" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="97" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="207" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="71" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="13" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="77" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:02:08 20:15:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2001-02-08T20:15:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:02:08 20:15:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2001-02-08 15:15:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 01/ma.2.8.01.HMOcomments.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.2.8.01.HMOcomments.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">30720</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">aa71b102d96a25cf1f4a12579f422b90</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">981666944000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">124</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">709</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">NEWS RELEASE</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">NEWS RELEASE</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">5</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <hasHyperlinks toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">yes</hasHyperlinks>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="218">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="18" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="52" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="200" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="29" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="16" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="48" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2002:03:07 17:00:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2002-03-07T17:00:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2002:03:07 16:28:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2002-03-07 11:28:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/Ma 02/ma.3.7.02.ParkerCancel.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.3.7.02.ParkerCancel.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">29184</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ba996cc1a076172dd389295fb35af92d</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1015524020000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">152</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">870</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">7</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="270">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="37" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="95" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="243" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="43" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="35" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="27" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="60" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:04:12 20:38:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-04-12T20:38:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:04:11 17:14:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-04-11 13:14:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.4.12.00.Lock&amp;Dam.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.4.12.00.Lock&amp;Dam.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">28672</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">3bcc197c60329177f9f8889843e8458b</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">955575538000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">137</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">781</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">NEWS RELEASE</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">NEWS RELEASE</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">John Stone</author>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">6</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="210">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="18" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="42" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="204" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="20" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="14" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="7" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="27" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:04:12 20:54:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-04-12T20:54:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:04:12 18:02:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-04-12 14:02:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.4.12.00.Lock&amp;Dam-SATfeed.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.4.12.00.Lock&amp;Dam-SATfeed.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">29696</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6133c4df7c0c4a3556239d1aec1566a0</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">955576442000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">89</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">508</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">NEWS RELEASE</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">NEWS RELEASE</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">John Stone</author>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">4</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="215">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="19" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="44" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="209" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="24" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="17" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="29" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:04:05 15:28:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-04-05T15:28:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:04:03 21:30:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-04-03 17:30:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word for Windows 95</creatingApplicationName>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.4.5.00.Conference.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.4.5.00.Conference.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">27136</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">45687f31d361a62e6f9a46078d076b83</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">954952140000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">196</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">1121</characterCount>
+      <title toolname="Exiftool" toolversion="10.00">September 24, 1997</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">Cong. Charles Norwood</author>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="211">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="41" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="208" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="23" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="17" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="29" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:05:02 19:00:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-05-02T19:00:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:05:02 16:58:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-05-02 12:58:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.5.2.00.PNTR.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.5.2.00.PNTR.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">30208</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b3b0bc2cc49b145be92be5bafd620b17</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">957297608000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">178</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">1016</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">John Stone</author>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">8</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="218">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="36" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="61" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="201" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="42" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="31" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="25" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="49" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:05:22 16:41:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-05-22T16:41:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:05:22 16:11:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-05-22 12:11:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.5.22.00.ChinaSpeeches.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.5.22.00.ChinaSpeeches.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">29696</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">e640684681595fbbec8f7122ff874da7</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">959017282000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">194</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">1111</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">John Stone</author>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="183">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="23" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="44" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="178" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="28" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="21" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="14" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="33" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:05:23 18:08:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-05-23T18:08:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:05:23 18:01:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-05-23 14:01:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.5.23.00.2.PNTRnewsConf.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.5.23.00.2.PNTRnewsConf.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">44544</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">181d9db7e6d9ec13fad19fa2d1d02589</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">959108910000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">116</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">665</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">5</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="202">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="16" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="28" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="194" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="18" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="12" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="24" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:05:23 17:12:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-05-23T17:12:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:05:23 16:50:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-05-23 12:50:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.5.23.00.PNTRnewsConf.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.5.23.00.PNTRnewsConf.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">28672</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">aee3e151af2244c2d1515bb5894f5d8c</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">959105548000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">113</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">648</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">5</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="204">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="17" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="35" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="194" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="23" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="13" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="6" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="35" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:06:04 16:41:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2001-06-04T16:41:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:06:04 16:26:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2001-06-04 12:26:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 01/ma.6.04.01.DublinVA.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.6.04.01.DublinVA.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">34304</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">f9898ff5e5f14094de85a70e91bd3976</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">991676482000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">113</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">648</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">NEWS RELEASE</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">NEWS RELEASE</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">5</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <hasHyperlinks toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">yes</hasHyperlinks>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="203">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="17" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="37" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="187" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="25" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="14" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="8" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="36" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:06:29 15:42:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-06-29T15:42:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:06:29 15:14:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-06-29 11:14:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.6.29.00.SenateSwamp.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.6.29.00.SenateSwamp.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">47616</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">fcb59b4fe802a3916ee8f9141082b780</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">962296946000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">137</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">784</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">6</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="199">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="18" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="33" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="192" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="24" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="16" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="9" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="30" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:07:18 14:52:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2001-07-18T14:52:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:07:17 16:24:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2001-07-17 12:24:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 01/ma.7.17.01.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.7.17.01.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">206848</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">cc5e22286eddfd60db3737781a388161</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">995471540000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">101</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">579</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">4</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="217">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="72" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="99" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="200" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="78" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="68" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="21" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="105" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:07:19 18:23:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-07-19T18:23:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:07:19 18:09:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-07-19 14:09:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.7.19.00.CoverdellTribute.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.7.19.00.CoverdellTribute.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">28672</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7c4710aa3edfcc4aae563dab16b77d80</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">964034596000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">144</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">695</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">17</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">4</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="194">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="23" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="47" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="188" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="26" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="19" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="12" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="32" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:07:05 18:21:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-07-05T18:21:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:07:05 17:56:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-07-05 13:56:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.7.5.00.AgDay.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.7.5.00.AgDay.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">31744</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">8cfd55a13fce3030202d1d0888ad3d9c</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">962824902000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">158</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">904</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">7</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="198">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="20" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="45" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="192" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="23" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="17" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="29" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:08:16 18:52:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2001-08-16T18:52:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:08:16 18:52:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2001-08-16 14:52:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 01/ma.8.16.01.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.8.16.01.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">32256</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">efe50b4bc2095024a995a2f7126280fe</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">997991544000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">121</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">693</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">US House of Represenatives</author>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">5</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="250">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="56" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="76" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="236" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="63" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="52" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="46" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="75" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:08:02 16:09:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2001-08-02T16:09:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2001:08:02 14:20:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2001-08-02 10:20:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 01/ma.8.2.01.DetailsBriefing.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.8.2.01.DetailsBriefing.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">110592</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">956ba3ee1cbc87e546897d6735c6235f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">996772172000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">272</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">1553</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">12</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">3</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="222">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="56" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="95" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="212" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="64" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="51" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="12" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="81" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:09:01 14:18:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2000-09-01T14:18:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2000:09:01 14:10:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2000-09-01 10:10:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/MA 00/ma.9.5.00.LegionHonor.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.9.5.00.LegionHonor.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">30720</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">495e199a3e902e156a5b299f106af02e</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">967821500000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">213</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">1217</characterCount>
+      <title toolname="Exiftool" toolversion="10.00">September 24, 1997</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">10</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="198">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="19" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="41" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="191" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="23" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="16" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="34" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">97-2003</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/40</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2002:03:21 14:30:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2002-03-21T14:30:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">2002:03:21 13:58:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">2002-03-21 08:58:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word 9.0</creatingApplicationName>
+    <creatingApplicationVersion toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">9.2720</creatingApplicationVersion>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000002_Media Advisory/objects/ma.ThurmondTurbines.3.25.02.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ma.ThurmondTurbines.3.25.02.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">29184</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9e6533fbd0c775d92ceedff310013fd3</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1016724658000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">167</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">952</characterCount>
+      <title toolname="Exiftool" toolversion="10.00" status="CONFLICT">MEDIA ADVISORY</title>
+      <title toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">MEDIA ADVISORY</title>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">7</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="642">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="95" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="573" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="601" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="522" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="93" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="508" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="546" />
+  </statistics>
+</fits>
+
+</combined-fits>

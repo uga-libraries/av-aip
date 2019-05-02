@@ -1,0 +1,2358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<combined-fits>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification status="PARTIAL">
+    <identity format="DOS floppy 1440k, x86 hard disk boot sector" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/2_09_04 - 12_13_04 Clips RBRL047FD3006/2_09_04 - 12_13_04 Clips RBRL047FD3006.001</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2_09_04 - 12_13_04 Clips RBRL047FD3006.001</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1474560</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">d006bb86425294c639453034e649de6e</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1404335072000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="725">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="61" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="724" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="88" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="124" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="135" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="16" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="33" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Plain text" mimetype="text/plain" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/111</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">1699</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/2_09_04 - 12_13_04 Clips RBRL047FD3006/2_09_04 - 12_13_04 Clips RBRL047FD3006.001.txt</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2_09_04 - 12_13_04 Clips RBRL047FD3006.001.txt</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b3319718338a50f13bde75bd6d65458a</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1404335072000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">UTF-8 Byte Order Mark signature is present offset=0</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <linebreak toolname="Jhove" toolversion="1.16">CR/LF</linebreak>
+      <charset toolname="Jhove" toolversion="1.16">UTF-8</charset>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="64">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="29" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="55" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="55" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="21" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="28" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="61" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification status="PARTIAL">
+    <identity format="dBASE Database" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <version toolname="Droid" toolversion="6.3">III</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/9</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/1_05_2005 - 01_06_2005 Clips RBRL047FD3003/Associations.dbf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Associations.dbf</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">14890</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">4da77e1cd8631f1a3914ef307390d808</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">933266248000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="132">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="16" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="125" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="61" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="131" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="13" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="16" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="18" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Excel" mimetype="application/vnd.ms-excel" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">8</version>
+      <version toolname="Droid" toolversion="6.3" status="CONFLICT">8X</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/61</externalIdentifier>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/62</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2008:10:13 14:50:42</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2008-10-13T14:50:42Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2008:10:13 14:50:42</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/1_05_2005 - 01_06_2005 Clips RBRL047FD3003/Associations.xls</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Associations.xls</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">33280</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">f34619349cc4d0dd75ddcaea28b6bc27</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1223913042000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document />
+  </metadata>
+  <statistics fitsExecutionTime="538">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="39" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="130" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="87" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="236" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="30" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="30" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="525" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification status="PARTIAL">
+    <identity format="DOS floppy 1440k, x86 hard disk boot sector" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="file utility" toolversion="5.11" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/Clips 1_7_05 - RBRL047FD3007/Clips 1_7_05 - RBRL047FD3007.001</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Clips 1_7_05 - RBRL047FD3007.001</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1474560</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2c61e292d0ca9ef3003c53f90e0b2fa1</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1404335576000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="851">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="153" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="850" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="171" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="198" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="337" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="74" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="124" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Plain text" mimetype="text/plain" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">x-fmt/111</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">1636</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/Clips 1_7_05 - RBRL047FD3007/Clips 1_7_05 - RBRL047FD3007.001.txt</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Clips 1_7_05 - RBRL047FD3007.001.txt</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">46ba8f52aa13d8e7ea545f0c8f323af3</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1404335576000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">UTF-8 Byte Order Mark signature is present offset=0</message>
+  </filestatus>
+  <metadata>
+    <text>
+      <linebreak toolname="Jhove" toolversion="1.16">CR/LF</linebreak>
+      <charset toolname="Jhove" toolversion="1.16">UTF-8</charset>
+    </text>
+  </metadata>
+  <statistics fitsExecutionTime="73">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="40" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="56" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="71" />
+    <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="38" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="41" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="42" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Microsoft Word Binary File Format" mimetype="application/msword" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">6.0/95</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/39</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">1998:02:26 16:08:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">1998-02-26T16:08:00Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="CONFLICT">1997:08:18 13:55:00</created>
+    <created toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="CONFLICT">1997-08-18 09:55:00</created>
+    <creatingApplicationName toolname="Exiftool" toolversion="10.00">Microsoft Word for Windows 95</creatingApplicationName>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/12_21_04 - 01_04_05 Clips RBRL047FD3004/closure.doc</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">closure.doc</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">194560</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">2d333bd84f3454940ab52630d94dcd07</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">888510002000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <document>
+      <pageCount toolname="Exiftool" toolversion="10.00">1</pageCount>
+      <wordCount toolname="Exiftool" toolversion="10.00">90</wordCount>
+      <characterCount toolname="Exiftool" toolversion="10.00">516</characterCount>
+      <title toolname="Exiftool" toolversion="10.00">April 29, 1997</title>
+      <author toolname="NLNZ Metadata Extractor" toolversion="3.6GA">Rico Torres/6th Grade Tornadoes of GHMS</author>
+      <lineCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">4</lineCount>
+      <paragraphCount toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">1</paragraphCount>
+      <language toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">U.S. English</language>
+      <hasPictures toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">yes</hasPictures>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="211">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="61" />
+    <tool toolname="Jhove" toolversion="1.16" status="did not run" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="89" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="206" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="91" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="58" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="17" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="118" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">279333</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:01 10:38:42-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-01T15:38:42Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:01 10:37:50-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/11_23_04 - 12_01_04 Clips RBRL047FD3005/Dec01.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Dec01.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">c3b64cba2ccd2aa0375e54c939582313</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108495296000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">26</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="260">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="67" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="212" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="79" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="250" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="77" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="64" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="15" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="93" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">253672</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:02 10:49:10-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-02T15:49:10Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:02 10:47:54-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/12_2_04 - 12_8_04 Clips RBRL047FD3001/Dec02.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Dec02.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">b660473ec974a4ac07dca91113fcab7c</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108495420000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">32</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="234">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="119" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="212" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="150" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="224" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="137" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="117" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="25" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="160" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">335480</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:07 10:33:41-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-07T15:33:41Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:07 10:32:26-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/12_2_04 - 12_8_04 Clips RBRL047FD3001/Dec07.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Dec07.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7f9602fee3b2cfe980c00443cc5d8800</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108495540000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">41</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialUnicodeMS</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Italic</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="294">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="124" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="282" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="151" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="201" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="151" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="120" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="35" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="169" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">478635</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:08 10:52:36-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-08T15:52:36Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:08 10:51:38-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/12_2_04 - 12_8_04 Clips RBRL047FD3001/Dec08.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Dec08.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6e36673e95371903db6269f6ceee7972</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108495584000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">31</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">4</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialUnicodeMS</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Italic</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="284">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="169" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="273" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="143" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="230" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="184" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="166" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="52" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="219" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">234463</size>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/2_09_04 - 12_13_04 Clips RBRL047FD3006/DEC09.PDF</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">DEC09.PDF</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">652aedd146b867fbad9eeabf85b3d9c7</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108495650000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">false</valid>
+    <message toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">Invalid object definition offset=216594</message>
+  </filestatus>
+  <metadata>
+    <document>
+      <pageCount toolname="Tika" toolversion="1.10" status="SINGLE_RESULT">0</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">no</hasAnnotations>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="263">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="85" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="104" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="115" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="173" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="failed" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="84" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="17" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="100" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification status="UNKNOWN">
+    <identity format="Unknown Binary" mimetype="application/octet-stream" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Jhove" toolversion="1.16" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/2_09_04 - 12_13_04 Clips RBRL047FD3006/Dec131.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Dec131.pdf</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">500057</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">e98641063f8a681b303a8f6c019e5135</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108495794000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="524">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="100" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="312" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="141" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="332" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="523" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="149" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="31" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">258462</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:14 10:43:24-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-14T15:43:24Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:14 10:42:06-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/12_14_04 - 12_20_04 Clips RBRL047FD3002/Dec14.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Dec14.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">7cdde9db463700fa012d271a2a17db23</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108496016000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">40</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="324">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="70" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="309" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="139" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="237" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="135" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="67" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="136" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">182593</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:15 11:21:06-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-15T16:21:06Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:15 11:19:55-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/12_14_04 - 12_20_04 Clips RBRL047FD3002/Dec15.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Dec15.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">85e148f0ed75e3078a6781fa76b23607</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108496052000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">25</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="1043">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="89" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="668" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="546" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="540" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="524" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="87" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="457" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="987" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">238275</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:16 11:28:36-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-16T16:28:36Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:16 11:27:42-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/12_14_04 - 12_20_04 Clips RBRL047FD3002/dec16.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">dec16.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">8b894e766ebf48d2cf125165e8d8dd03</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108496216000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">26</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialUnicodeMS</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="321">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="68" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="293" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="126" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="229" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="101" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="65" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="22" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="126" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">299071</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:17 10:46:25-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-17T15:46:25Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:17 10:44:52-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/12_14_04 - 12_20_04 Clips RBRL047FD3002/Dec17.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Dec17.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">83013d74635af8efa5cfe1f9666afe6a</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108496266000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">40</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialUnicodeMS</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="461">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="96" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="432" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="145" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="267" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="135" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="89" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="28" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="208" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">475704</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:20 10:59:09-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-20T15:59:09Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:20 10:56:08-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/12_14_04 - 12_20_04 Clips RBRL047FD3002/Dec20.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Dec20.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">f43dd528291f228b86dd0edd9dbe3460</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108496308000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">59</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">3</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialUnicodeMS</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="336">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="76" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="320" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="91" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="296" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="119" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="73" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="11" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="133" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">236617</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:12:22 10:41:54-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-12-22T15:41:54Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:12:22 10:40:32-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/12_21_04 - 01_04_05 Clips RBRL047FD3004/Dec22.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Dec22.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">e30377daa22a847d950ef3757f3bc121</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108496448000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">24</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">4</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="219">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="72" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="210" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="151" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="205" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="87" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="69" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="14" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="153" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">281335</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2005:02:09 09:43:41-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2005-02-09T14:43:41Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2005:02:09 09:41:18-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/Clips 01_25_05 - 02_10_05 RBRL047FD3009/feb09.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">feb09.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ead80089f1540a45484d43e0b06bf4cb</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108130208000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">29</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">44</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>SymbolMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="195">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="75" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="186" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="97" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="187" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="98" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="74" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="13" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="102" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">178503</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2005:02:10 10:45:13-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2005-02-10T15:45:13Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2005:02:10 10:43:35-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/Clips 01_25_05 - 02_10_05 RBRL047FD3009/feb10.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">feb10.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">a3de8adfe8384bdfdb0b3622d8084732</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108130170000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">26</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">5</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="217">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="65" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="157" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="85" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="212" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="79" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="61" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="12" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="80" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">217220</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2005:01:04 09:59:02-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2005-01-04T14:59:02Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2005:01:04 09:57:53-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/12_21_04 - 01_04_05 Clips RBRL047FD3004/Jan04.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Jan04.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1173846a6fd2dede2b8394b393eee1fd</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108496482000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">29</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="206">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="54" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="124" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="81" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="196" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="72" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="53" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="10" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="79" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">352872</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2005:01:06 10:17:11-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2005-01-06T15:17:11Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2005:01:06 10:14:45-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/1_05_2005 - 01_06_2005 Clips RBRL047FD3003/Jan061.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Jan061.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">f37ca8997a522482178312fd4aede850</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1109783164000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">40</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">4</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialUnicodeMS</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Italic</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="304">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="74" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="218" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="99" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="289" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="90" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="43" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="5" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="95" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">249122</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2005:01:13 10:41:46-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2005-01-13T15:41:46Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2005:01:13 10:40:45-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/Clips 01_13_05 - 01_25_05 RBRL047FD3008/jan13.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">jan13.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">77c61b4ca4716a1f4c33e27a13da40ff</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108130964000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">28</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="265">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="84" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="236" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="111" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="259" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="103" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="84" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="18" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="118" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">391607</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2005:01:19 10:47:31-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2005-01-19T15:47:31Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2005:01:19 10:44:08-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/Clips 01_13_05 - 01_25_05 RBRL047FD3008/jan19.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">jan19.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9b2588073c2e307dbc3732cd064a8b1a</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108130914000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">47</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">3</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="231">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="91" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="191" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="111" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="224" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="117" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="87" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="15" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="138" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">420646</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2005:01:24 11:16:44-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2005-01-24T16:16:44Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2005:01:24 11:12:41-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/Clips 01_13_05 - 01_25_05 RBRL047FD3008/jan24.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">jan24.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">9b8d084ea425820855ca30571b0a8a75</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108130856000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">57</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">5</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>CourierNewPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Italic</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="241">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="124" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="234" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="108" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="227" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="149" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="122" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="16" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="176" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">255629</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2005:01:26 10:32:33-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2005-01-26T15:32:33Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2005:01:26 10:31:10-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/Clips 01_25_05 - 02_10_05 RBRL047FD3009/jan261.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">jan261.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">db1bce9e326c47a1123c134de2c7aa3f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108130380000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">22</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">4</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>CourierNewPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="197">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="75" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="149" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="98" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="191" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="89" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="73" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="16" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="97" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">190066</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2005:01:27 11:08:47-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2005-01-27T16:08:47Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2005:01:27 11:07:09-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/Clips 01_25_05 - 02_10_05 RBRL047FD3009/jan27.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">jan27.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6283a47204342189821311c95f0f5f56</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108130340000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">23</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>CourierNewPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="198">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="64" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="143" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="84" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="192" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="74" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="62" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="22" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="87" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">182922</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2005:01:28 10:17:47-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2005-01-28T15:17:47Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2005:01:28 10:16:21-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/Clips 01_25_05 - 02_10_05 RBRL047FD3009/Jan28.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Jan28.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1fc9966f16f496d2aca61b7a9ba24263</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108130278000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">23</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="246">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="59" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="177" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="85" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="242" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="74" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="57" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="16" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="72" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">248730</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2005:01:31 10:24:13-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2005-01-31T15:24:13Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2005:01:31 10:21:29-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/Clips 01_25_05 - 02_10_05 RBRL047FD3009/jan311.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">jan311.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">d9d74bdf4cc61349b79628196077f37f</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108130244000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">38</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">3</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>CourierNewPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="248">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="163" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="242" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="176" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="242" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="181" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="161" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="85" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="189" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">446318</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:11:23 11:34:48-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-11-23T16:34:48Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:11:23 11:33:22-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/11_23_04 - 12_01_04 Clips RBRL047FD3005/Nov23.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Nov23.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">38756e1e5b29c74f5fa23c12bbbbfeb9</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108495014000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Nov23.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">40</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>CourierNewPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="210">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="69" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="185" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="76" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="201" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="87" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="66" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="4" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="113" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">440532</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:11:29 10:09:06-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-11-29T15:09:06Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:11:29 10:07:18-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/11_23_04 - 12_01_04 Clips RBRL047FD3005/Nov29.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Nov29.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">826231dfd29d616379d67f856763d531</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108495140000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">49</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialUnicodeMS</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>SymbolMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="256">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="139" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="246" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="133" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="239" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="165" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="136" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="31" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="192" />
+  </statistics>
+</fits>
+
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.2.0" timestamp="11/14/17 3:54 PM">
+  <identification>
+    <identity format="Portable Document Format" mimetype="application/pdf" toolname="FITS" toolversion="1.2.0">
+      <tool toolname="Droid" toolversion="6.3" />
+      <tool toolname="Jhove" toolversion="1.16" />
+      <tool toolname="file utility" toolversion="5.11" />
+      <tool toolname="Exiftool" toolversion="10.00" />
+      <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.10" />
+      <version toolname="Droid" toolversion="6.3">1.4</version>
+      <externalIdentifier toolname="Droid" toolversion="6.3" type="puid">fmt/18</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.16">250301</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.16">Acrobat Distiller 6.0 (Windows)/Acrobat PDFMaker 6.0 for Word</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="10.00" status="CONFLICT">2004:11:30 10:29:17-05:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.10" status="CONFLICT">2004-11-30T15:29:17Z</lastmodified>
+    <created toolname="Exiftool" toolversion="10.00" status="SINGLE_RESULT">2004:11:30 10:27:54-05:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/home/digipres/Desktop/Russell_ProtoAips/protoaips_open/rbrl-047-er-000001_Clips/objects/11_23_04 - 12_01_04 Clips RBRL047FD3005/Nov301.pdf</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">Nov301.pdf</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">f29b023445d719f25527232039f74704</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1108495254000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <document>
+      <title toolname="Jhove" toolversion="1.16">Microsoft Word - Clipsstarter.doc</title>
+      <author toolname="Jhove" toolversion="1.16">saa</author>
+      <pageCount toolname="Jhove" toolversion="1.16">36</pageCount>
+      <isTagged toolname="Exiftool" toolversion="10.00">yes</isTagged>
+      <hasOutline toolname="Jhove" toolversion="1.16">yes</hasOutline>
+      <hasAnnotations toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">yes</hasAnnotations>
+      <graphicsCount toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">2</graphicsCount>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Arial-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>ArialMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-BoldMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPS-ItalicMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>TimesNewRomanPSMT</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana</fontName>
+      </font>
+      <font toolname="Jhove" toolversion="1.16" status="SINGLE_RESULT">
+        <fontName>Verdana-Bold</fontName>
+      </font>
+      <hasForms toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="SINGLE_RESULT">no</hasForms>
+    </document>
+  </metadata>
+  <statistics fitsExecutionTime="274">
+    <tool toolname="MediaInfo" toolversion="0.7.75" status="did not run" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.3" executionTime="62" />
+    <tool toolname="Jhove" toolversion="1.16" executionTime="162" />
+    <tool toolname="file utility" toolversion="5.11" executionTime="88" />
+    <tool toolname="Exiftool" toolversion="10.00" executionTime="267" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="88" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="60" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="21" />
+    <tool toolname="Tika" toolversion="1.10" executionTime="95" />
+  </statistics>
+</fits>
+
+</combined-fits>
