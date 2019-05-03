@@ -15,7 +15,7 @@ for item in os.listdir():
   subprocess.run(f'java -cp {saxon} net.sf.saxon.Transform -s:{item}/metadata/{item}_mediainfo.xml -xsl:{stylesheet} -o:{item}/metadata/{item}_master.xml department="{department}"', shell=True)
 
   # Validate master.xml against master.xsd.
-  validation_result = subprocess.run(f'xmllint --noout -schema {aip_staging}/master.xsd {item}/metadata/{item}_master.xml', stderr=subprocess.PIPE, shell=True)
+  validation_result = subprocess.run(f'xmllint --noout -schema {xsd} {item}/metadata/{item}_master.xml', stderr=subprocess.PIPE, shell=True)
 
   # If it isn't valid, move the AIP to an error folder.
   # If it is valid, copies the master.xml to local server for staff use.
