@@ -9,8 +9,9 @@
 #  3. aip_directory.py creates the AIP directory structure and moves files to subfolders.
 #  4. metadata.py creates mediainfo XML and other metadata files if applicable.
 #  5. master.py creates master.xml using XSLT on mediainfo XML; validates master.xml.
-#  6. package.py bags and renames the AIP; validates the bag; tars and zips the bag.
-#  7. manifest_ingest.py creates MD5 manifest; moves tarred and zipped bags to the ingest server.
+#  6. bag.py bags and renames the AIP; validates the bag.
+#  7. tar_zip.py uses prepare_bag script to tar and zip the AIP.
+#  8. manifest_ingest.py creates MD5 manifest; moves tarred and zipped bags to the ingest server.
 
 # If errors are encountered during defined points in the process, the AIP is moved to a folder with the name of the error and no further processing is done on that AIP.
 
@@ -49,7 +50,9 @@ subprocess.run(f'python3 {scripts}/metadata.py {workflow} {aips_directory} {depa
 
 subprocess.run(f'python3 {scripts}/master.py {workflow} {aips_directory} {department}', shell=True)
 
-subprocess.run(f'python3 {scripts}/package.py {workflow} {aips_directory} {department}', shell=True)
+subprocess.run(f'python3 {scripts}/bag.py {workflow} {aips_directory} {department}', shell=True)
+
+subprocess.run(f'python3 {scripts}/tar_zip.py {workflow} {aips_directory} {department}', shell=True)
 
 subprocess.run(f'python3 {scripts}/manifest_ingest.py {workflow} {aips_directory} {department}', shell=True)
 
