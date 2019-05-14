@@ -17,7 +17,7 @@ if workflow == 'mkv':
   for item in os.listdir():
   # Displays a progress count because this step can take a long time.
     tarzip_count += 1
-    print(f'Tar/zipping AIP {tarzip_count} of {total}.')
+    print(f'Tarring AIP {tarzip_count} of {total}.')
     subprocess.run(f'perl {prepare_bag_nozip} {item} {aip_staging}/aips-ready-to-ingest/', shell=True)
       
 else:
