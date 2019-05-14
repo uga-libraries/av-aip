@@ -13,6 +13,7 @@ saxon = 'INSERT PATH HERE'
 stylesheet = 'INSERT PATH HERE'
 xsd = 'INSERT PATH HERE'
 prepare_bag = 'INSERT PATH HERE'
+prepare_bag_nozip = 'INSERT PATH HERE'
 
 
 # Variables that are determined from script arguments.
