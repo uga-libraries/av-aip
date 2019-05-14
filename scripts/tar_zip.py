@@ -1,5 +1,5 @@
-# Purpose: tar and zip each aip folder.
-# Dependencies: prepare_bag perl script
+# Purpose: if MKV, tar each aip folder. All others: tar and zip each aip folder.
+# Dependencies: prepare_bag perl script, prepare_bag_nozip perl script
 
 import os
 import shutil
