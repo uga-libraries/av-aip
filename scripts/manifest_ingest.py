@@ -13,7 +13,7 @@ print('\n>>>Making MD5 manifest and moving AIPs to ingest server...\n')
 os.chdir(f'{aip_staging}/aips-ready-to-ingest')
 
 # Set a date variable equal to current date.
-date = datetime.date.today()
+date = datetime.datetime.now().strftime("%Y-%m-%d-%H%M")
 
 #Make MD5 manifest of all packaged AIPs (bagged, tarred, and zipped).
 subprocess.run(f'md5deep -br {os.getcwd()} > {aip_staging}/md5-manifests-for-aips/{date}_AIPs_md5_manifest.txt', shell=True)
