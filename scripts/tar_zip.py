@@ -11,7 +11,7 @@ total = len(os.listdir(aips_directory))
 tarzip_count = 0
 
 
-if workflow == 'mkv':
+if workflow == 'mkv' or workflow == 'mkv-filmscan':
   # Tar the aips using a Perl script.
   # Separate loop so won't get an error if any files are moved due to errors.
   for item in os.listdir():
