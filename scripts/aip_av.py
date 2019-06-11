@@ -1,6 +1,6 @@
 # Usage: python3 path/to/aip_av.py workflow_type path/to/aips_directory department
 
-# workflow_type choices are: 'dpx', 'mkv', 'mov', 'mxf'
+# workflow_type choices are: 'dpx', 'mkv', 'mkv-filmscan', 'mov', 'mxf'
 
 # Prepares audiovisual data for ingest into the UGA Libraries Digital Preservation Storage System as an AIP by running a series of scripts in sequence:
 
