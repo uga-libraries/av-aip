@@ -32,9 +32,9 @@ errors = []
 if len(sys.argv) != 4:
   errors.append('Incorrect number of arguments.')
 
-# Tests the workflow type, which should be dpx, mkv, mov, or mxf.
+# Tests the workflow type, which should be dpx, mkv, mkv-filmscan, mov, or mxf.
 if len(sys.argv) > 1:
-  workflow_types = ['dpx', 'mkv', 'mov', 'mxf']
+  workflow_types = ['dpx', 'mkv', 'mkv-filmscan', 'mov', 'mxf']
   if sys.argv[1] in workflow_types:
     workflow = sys.argv[1]
   else:
