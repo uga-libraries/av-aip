@@ -17,18 +17,18 @@ for item in os.listdir():
   if item == 'oldmd5manifest.txt' or item.startswith('._'):
     continue
 
-  if item.endswith('.mov') or item.endswith('.mkv'):
+  if item.endswith('.mov') or item.endswith('.mkv') or item.endswith('wav'):
     # Compares the current MD5 to the manifest.
     md5deep_result = subprocess.run(f'md5deep -X "{aips_directory}"/oldmd5manifest.txt "{item}"', stdout=subprocess.PIPE, shell=True)
 
-    # Moves the AIP, including the associated sidecar file, to another location on aip_staging if the fixity has changed.  
+    # Moves the AIP, including the associated sidecar file, to another location on aip_staging if the fixity has changed.
     # md5deep has an empty stdout if the MD5 matched. If it didn't match, stdout would have the current fixity and full filepath.
     # md5deep does not store anything in stderr, which is what we generally use to test if something has errors or not.
     if not "stdout=b''" in str(md5deep_result):
       move_error('fixity_changed', item)
       move_error('fixity_changed', f'{item}.md5')
 
-	
+
 # Delete sidecar files and the manifest, which are no longer needed.
 # Separate loop so won't get an error if any sidecar files are moved due to errors.
 for item in os.listdir():

@@ -6,14 +6,14 @@ import sys
 
 
 # Variables that have a constant value, determined by local machine.
-aip_staging = 'INSERT PATH HERE'
-ingest_server = 'INSERT PATH HERE'
-scripts = 'INSERT PATH HERE'
-saxon = 'INSERT PATH HERE'
-stylesheet = 'INSERT PATH HERE'
-xsd = 'INSERT PATH HERE'
-prepare_bag = 'INSERT PATH HERE'
-prepare_bag_nozip = 'INSERT PATH HERE'
+aip_staging = '/Volumes/Tritonia/AIP_staging'
+ingest_server = '/Volumes/bmac'
+scripts = '/Users/callieholmes/scripts/GitHub/av-aip/scripts'
+saxon = '/Applications/SaxonHE9-8-0-12J/saxon9he.jar'
+stylesheet = '/Users/callieholmes/AIP-stylesheets/aip-stylesheets/mediainfo-to-master.xslt'
+xsd = '/Users/callieholmes/AIP-stylesheets/aip-stylesheets/master.xsd'
+prepare_bag = '/Users/callieholmes/scripts/GitHub/av-aip/scripts/prepare_bag'
+prepare_bag_nozip = '/Users/callieholmes/scripts/GitHub/av-aip/scripts/prepare_bag_nozip'
 
 
 # Variables that are determined from script arguments.
@@ -34,7 +34,7 @@ if len(sys.argv) != 4:
 
 # Tests the workflow type, which should be dpx, mkv, mkv-filmscan, mov, or mxf.
 if len(sys.argv) > 1:
-  workflow_types = ['dpx', 'mkv', 'mkv-filmscan', 'mov', 'mxf']
+  workflow_types = ['dpx', 'mkv', 'mkv-filmscan', 'mov', 'mxf', 'wav']
   if sys.argv[1] in workflow_types:
     workflow = sys.argv[1]
   else:
@@ -63,7 +63,7 @@ if len(errors) > 0:
   print('Script Usage: python3 path/to/aip_av.py workflow_type path/to/aips_directory department\n')
   exit()
 
-  
+
 # Function to move AIPs with errors to a different place on aip_staging so the rest of the script doesn't run on it.
 # Makes a folder with the error name, if it doesn't exist already, and moves the AIP there.
 # Used in multiple scripts.
