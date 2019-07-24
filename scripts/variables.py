@@ -34,7 +34,7 @@ if len(sys.argv) != 4:
 
 # Tests the workflow type, which should be dpx, mkv, mkv-filmscan, mov, or mxf.
 if len(sys.argv) > 1:
-  workflow_types = ['dpx', 'mkv', 'mkv-filmscan', 'mov', 'mxf']
+  workflow_types = ['dpx', 'mkv', 'mkv-filmscan', 'mov', 'mxf', 'wav']
   if sys.argv[1] in workflow_types:
     workflow = sys.argv[1]
   else:
@@ -63,7 +63,7 @@ if len(errors) > 0:
   print('Script Usage: python3 path/to/aip_av.py workflow_type path/to/aips_directory department\n')
   exit()
 
-  
+
 # Function to move AIPs with errors to a different place on aip_staging so the rest of the script doesn't run on it.
 # Makes a folder with the error name, if it doesn't exist already, and moves the AIP there.
 # Used in multiple scripts.

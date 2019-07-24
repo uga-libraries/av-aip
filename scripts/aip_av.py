@@ -1,6 +1,6 @@
 # Usage: python3 path/to/aip_av.py workflow_type path/to/aips_directory department
 
-# workflow_type choices are: 'dpx', 'mkv', 'mkv-filmscan', 'mov', 'mxf'
+# workflow_type choices are: 'dpx', 'mkv', 'mkv-filmscan', 'mov', 'mxf', 'wav'
 
 # Prepares audiovisual data for ingest into the UGA Libraries Digital Preservation Storage System as an AIP by running a series of scripts in sequence:
 
@@ -39,9 +39,9 @@ for root, dirs, files in os.walk('.'):
 # To run a subset of the scripts, make lines you don't want to run a comment by putting # in front.
 # Importing variables.py causes the validation checks to run, which is why it is not included below.
 
-subprocess.run(f'python3 {scripts}/duplicate_check.py {workflow} {aips_directory} {department}', shell=True)
+# subprocess.run(f'python3 {scripts}/duplicate_check.py {workflow} {aips_directory} {department}', shell=True)
 
-if workflow == 'mkv' or workflow == 'mov':
+if workflow == 'mkv' or workflow == 'mov' or workflow == 'wav':
   subprocess.run(f'python3 {scripts}/verify_fixity.py {workflow} {aips_directory} {department}', shell=True)
 
 subprocess.run(f'python3 {scripts}/aip_directory.py {workflow} {aips_directory} {department}', shell=True)
