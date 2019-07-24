@@ -6,14 +6,14 @@ import sys
 
 
 # Variables that have a constant value, determined by local machine.
-aip_staging = ''
-ingest_server = '/Volumes/bmac'
-scripts = ''
-saxon = ''
-stylesheet = ''
-xsd = ''
-prepare_bag = ''
-prepare_bag_nozip = ''
+aip_staging = 'INSERT PATH HERE'
+ingest_server = 'INSERT PATH HERE'
+scripts = 'INSERT PATH HERE'
+saxon = 'INSERT PATH HERE'
+stylesheet = 'INSERT PATH HERE'
+xsd = 'INSERT PATH HERE'
+prepare_bag = 'INSERT PATH HERE'
+prepare_bag_nozip = 'INSERT PATH HERE'
 
 
 # Variables that are determined from script arguments.
