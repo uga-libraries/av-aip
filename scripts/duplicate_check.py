@@ -18,7 +18,7 @@ for item in os.listdir():
     else:
       aip_id = f'bmac_{item}'
 	
-  if workflow == 'mkv' or workflow == 'mov':
+  if workflow == 'mkv' or workflow == 'mov' or workflow == 'mkv-filmscan':
     aip_id = f'bmac_{pathlib.Path(item).stem}'
   
   if workflow == 'mxf':
