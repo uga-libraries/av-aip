@@ -24,7 +24,7 @@ for item in os.listdir():
     else:
       aip_id = f'bmac_{item}'
 	
-  if workflow == 'mkv' or workflow == 'mov':
+  if workflow == 'mkv' or workflow == 'mov' or workflow == 'mkv-filmscan':
     aip_id = f'bmac_{pathlib.Path(item).stem}'
   
   if workflow == 'mxf':
@@ -58,7 +58,7 @@ for item in os.listdir():
     #deletes the original folder after moving all the preservation files into the AIP directory.
     shutil.rmtree(item)
   
-  if workflow == 'mkv' or workflow == 'mov':
+  if workflow == 'mkv' or workflow == 'mov' or workflow == 'mkv-filmscan':
     if item.endswith('.mkv') or item.endswith('.mov'):
       os.replace(item, f'{aip_id}/objects/bmac_{item}')
 	
