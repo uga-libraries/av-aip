@@ -62,6 +62,9 @@ for item in os.listdir():
     if item.endswith('.mkv') or item.endswith('.mov') or item.endswith('.wav'):
       os.replace(item, f'{aip_id}/objects/bmac_{item}')
 
+    if item.endswith('.qctools.xml.gz'):
+      os.replace(item, f'{aip_id}/metadata/bmac_{item}')
+
     if item.endswith('.framemd5'):
       os.replace(item, f'{aip_id}/metadata/bmac_{item}')
 	  
