@@ -25,7 +25,10 @@ for item in os.listdir():
       aip_id = f'bmac_{item}'
 
   if workflow == 'mkv' or workflow == 'mov' or workflow == 'mkv-filmscan' or workflow == 'wav':
-    aip_id = f'bmac_{pathlib.Path(item).stem}'
+    file_name = os.path.basename(item)
+    index_of_dot = file_name.index('.')
+    file_name_without_extension = file_name[:index_of_dot]
+    aip_id = f'bmac_{file_name_without_extension}'
 
   if workflow == 'mxf':
     aip_id = f'bmac_wsb-video_{pathlib.Path(item).stem}'.lower()
