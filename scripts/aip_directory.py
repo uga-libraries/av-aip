@@ -31,8 +31,8 @@ for item in os.listdir():
     # mxf workflow items need more info added to beginning of aip_id
     if workflow == 'mxf':
       aip_id = f'bmac_wsb-video_{pathlib.Path(item).stem}'.lower()
-      else:
-	aip_id = f'bmac_{file_name_without_extension}'
+    else:
+      aip_id = f'bmac_{file_name_without_extension}'
 
 
 
