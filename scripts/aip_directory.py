@@ -25,6 +25,7 @@ for item in os.listdir():
       aip_id = f'bmac_{item}'
 
   if workflow == 'mkv' or workflow == 'mov' or workflow == 'mkv-filmscan' or workflow == 'wav':
+    # This bit of code is to account for files with more than one dot in the filename, specifically .qctools.xml.gz. 	
     file_name = os.path.basename(item)
     index_of_dot = file_name.index('.')
     file_name_without_extension = file_name[:index_of_dot]
