@@ -24,11 +24,16 @@ for item in os.listdir():
     else:
       aip_id = f'bmac_{item}'
 
-  if workflow == 'mkv' or workflow == 'mov' or workflow == 'mkv-filmscan' or workflow == 'wav':
-    aip_id = f'bmac_{pathlib.Path(item).stem}'
+  else: # for all workflows other than dpx
+    # This bit of code is to account for files with more than one dot in the filename, (specifically written for .qctools.xml.gz) 
+    index_of_dot = item.index('.')   # finds the first dot in the filename, stores position as index_of_dot
+    file_name_without_extension = item[:index_of_dot]   # creates a slice from beginning of filename to index_of_dot
+    # mxf workflow items need more info added to beginning of aip_id
+    if workflow == 'mxf':
+      aip_id = f'bmac_wsb-video_{pathlib.Path(item).stem}'.lower()
+    else:
+      aip_id = f'bmac_{file_name_without_extension}'
 
-  if workflow == 'mxf':
-    aip_id = f'bmac_wsb-video_{pathlib.Path(item).stem}'.lower()
 
 
   # Creates AIP directory structure (folder named aip_id with subfolders objects and metadata).
@@ -61,6 +66,9 @@ for item in os.listdir():
   if workflow == 'mkv' or workflow == 'mov' or workflow == 'mkv-filmscan' or workflow == 'wav':
     if item.endswith('.mkv') or item.endswith('.mov') or item.endswith('.wav'):
       os.replace(item, f'{aip_id}/objects/bmac_{item}')
+
+    if item.endswith('.qctools.xml.gz'):
+      os.replace(item, f'{aip_id}/metadata/bmac_{item}')
 
     if item.endswith('.framemd5'):
       os.replace(item, f'{aip_id}/metadata/bmac_{item}')
