@@ -4,8 +4,8 @@
 	xmlns:premis="http://www.loc.gov/premis/v3"
  elementFormDefault="qualified">
 
-<!--Purpose: validates the PREMIS elements in a master.xml file-->
-<!--These rules apply to PREMIS objects in both the aip and filelist sections of the master.xml-->
+<!--Purpose: validates the PREMIS elements in a preservation.xml file-->
+<!--These rules apply to PREMIS objects in both the aip and filelist sections of the preservation.xml-->
 
 	<xs:element name="object">
 		<xs:complexType>

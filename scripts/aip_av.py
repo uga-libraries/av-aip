@@ -8,14 +8,14 @@
 #  2. verify_fixity.py verifies checksums for AV with sidecar files.
 #  3. aip_directory.py creates the AIP directory structure and moves files to subfolders.
 #  4. metadata.py creates mediainfo XML and other metadata files if applicable.
-#  5. master.py creates master.xml using XSLT on mediainfo XML; validates master.xml.
+#  5. preservation.py creates preservation.xml using XSLT on mediainfo XML; validates preservation.xml.
 #  6. bag.py bags and renames the AIP; validates the bag.
 #  7. tar_zip.py uses prepare_bag script to tar and zip the AIP.
 #  8. manifest_ingest.py creates MD5 manifest; moves tarred and zipped bags to the ingest server.
 
 # If errors are encountered during defined points in the process, the AIP is moved to a folder with the name of the error and no further processing is done on that AIP.
 
-# Dependencies: bagit.py, checksumthing, ffmpeg, md5deep, mediainfo, mediainfo-to-master.xslt stylesheet, prepare_bag perl script, rsync, saxon xslt processor, xmllint
+# Dependencies: bagit.py, checksumthing, ffmpeg, md5deep, mediainfo, mediainfo-to-preservation.xslt stylesheet, prepare_bag perl script, rsync, saxon xslt processor, xmllint
 
 import os
 import subprocess
@@ -48,7 +48,7 @@ subprocess.run(f'python3 {scripts}/aip_directory.py {workflow} {aips_directory} 
 
 subprocess.run(f'python3 {scripts}/metadata.py {workflow} {aips_directory} {department}', shell=True)
 
-subprocess.run(f'python3 {scripts}/master.py {workflow} {aips_directory} {department}', shell=True)
+subprocess.run(f'python3 {scripts}/preservation.py {workflow} {aips_directory} {department}', shell=True)
 
 subprocess.run(f'python3 {scripts}/bag.py {workflow} {aips_directory} {department}', shell=True)
 
