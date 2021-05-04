@@ -66,10 +66,10 @@ for item in os.listdir():
   if workflow == 'mkv' or workflow == 'mov' or workflow == 'mkv-filmscan' or workflow == 'wav':
 	
     if item.endswith('.mkv'):
-       if item.endswith('.qctools.mkv'):
-         os.replace(item, f'{aip_id}/metadata/bmac_{item}')
-       else:
-	 os.replace(item, f'{aip_id}/objects/bmac_{item}')
+			if item.endswith('.qctools.mkv'):
+				os.replace(item, f'{aip_id}/metadata/bmac_{item}')
+			else:
+				os.replace(item, f'{aip_id}/objects/bmac_{item}')
 
     if item.endswith('.mov') or item.endswith('.wav'):
       os.replace(item, f'{aip_id}/objects/bmac_{item}')
