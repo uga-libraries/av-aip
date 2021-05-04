@@ -64,6 +64,10 @@ for item in os.listdir():
     shutil.rmtree(item)
 
   if workflow == 'mkv' or workflow == 'mov' or workflow == 'mkv-filmscan' or workflow == 'wav':
+	
+    if item.endswith('.qctools.mkv'):
+      os.replace(item, f'{aip_id}/metadata/bmac_{item}')
+
     if item.endswith('.mkv') or item.endswith('.mov') or item.endswith('.wav'):
       os.replace(item, f'{aip_id}/objects/bmac_{item}')
 
