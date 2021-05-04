@@ -25,7 +25,7 @@ for item in os.listdir():
       aip_id = f'bmac_{item}'
 
   else: # for all workflows other than dpx
-    # This bit of code is to account for files with more than one dot in the filename, (specifically written for .qctools.xml.gz) 
+    # This bit of code is to account for files with more than one dot in the filename, (specifically written for .qctools.xml.gz)
     index_of_dot = item.index('.')   # finds the first dot in the filename, stores position as index_of_dot
     file_name_without_extension = item[:index_of_dot]   # creates a slice from beginning of filename to index_of_dot
     # mxf workflow items need more info added to beginning of aip_id
@@ -64,12 +64,12 @@ for item in os.listdir():
     shutil.rmtree(item)
 
   if workflow == 'mkv' or workflow == 'mov' or workflow == 'mkv-filmscan' or workflow == 'wav':
-	
+
     if item.endswith('.mkv'):
-			if item.endswith('.qctools.mkv'):
-				os.replace(item, f'{aip_id}/metadata/bmac_{item}')
-			else:
-				os.replace(item, f'{aip_id}/objects/bmac_{item}')
+      if item.endswith('.qctools.mkv'):
+        os.replace(item, f'{aip_id}/metadata/bmac_{item}')
+      else:
+        os.replace(item, f'{aip_id}/objects/bmac_{item}')
 
     if item.endswith('.mov') or item.endswith('.wav'):
       os.replace(item, f'{aip_id}/objects/bmac_{item}')
@@ -82,7 +82,7 @@ for item in os.listdir():
 
     if item.endswith('.srt'):
       os.replace(item, f'{aip_id}/metadata/bmac_{item}')
-	  
+
   if workflow == 'mxf':
     if item.endswith('.mxf'):
       os.replace(item, f'{aip_id}/objects/bmac_wsb-video_{item.lower()}')
