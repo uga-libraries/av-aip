@@ -14,7 +14,7 @@ subprocess.run(f'checksumthing -i "{aips_directory}" -ie .md5 -t md5 -c lower -r
 for item in os.listdir():
 
   #Skips the manifest, which are produced by the previous step, and temporary files (their fixity often changes).
-  if item == 'oldmd5manifest.txt' or item.startswith('._'):
+  if item == 'oldmd5manifest.txt' or item.startswith('._') or item.endswith('.qctools.mkv'):
     continue
 
   if item.endswith('.mov') or item.endswith('.mkv') or item.endswith('wav'):
