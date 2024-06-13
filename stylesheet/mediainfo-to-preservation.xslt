@@ -301,6 +301,18 @@
 						<xsl:call-template name="mediainfo-note"/>
 					</premis:format>
 				</xsl:when>	
+				<xsl:when test="//FileExtension = 'mp4'">
+					<premis:format>
+						<premis:formatDesignation>
+							<premis:formatName>
+								<xsl:value-of select="/MediaInfo/media/track[@type='General']/Format"/>
+							</premis:formatName>
+							<xsl:call-template name="format-version"/>
+						</premis:formatDesignation>
+						<xsl:call-template name="mediainfo-note"/>
+						<xsl:call-template name="codec-note"/>
+					</premis:format>
+				</xsl:when>	
 
 			</xsl:choose>
 		</xsl:if>
@@ -384,17 +396,17 @@
 		<premis:formatNote>
 			<xsl:text>Video is encoded in the following codec: </xsl:text>
 			<xsl:value-of select="/MediaInfo/media/track[@type='Video']/Format"/>
-			<!--Matrovska format uses Format_Version, while all other formats use Format_Profile, to supplement the Format description of the codec.-->
+			<!--Matroska format uses Format_Version, while all other formats use Format_Profile, to supplement the Format description of the codec.-->
 			<!--These are not always present, so tests if exists before selecting the value to avoid extra spacing in the note.-->
 			<xsl:choose>
 			  	<xsl:when test="//FileExtension = 'mkv' and /MediaInfo/media/track[@type='Video']/Format_Version">
-			    		<xsl:text> </xsl:text>
+			    		<xsl:text> version </xsl:text>
 			    		<xsl:value-of select="/MediaInfo/media/track[@type='Video']/Format_Version"/>
 			  	</xsl:when>
 			  	<xsl:otherwise>
-			    		<xsl:if test="/MediaInfo/media/track[@type='Video']/Format_Profile">
+			    		<xsl:if test="//FileExtension != 'mp4' and /MediaInfo/media/track[@type='Video']/Format_Profile">
 			      			<xsl:text> </xsl:text>
-			      			<xsl:value-of select="/MediaInfo/media/track[@type='Video']/Format_Profile"/>
+			      			<xsl:value-of select="/MediaInfo/media/track[@type='Video']/Format_Commercial"/>
 			    		</xsl:if>
 			  	</xsl:otherwise>  
 			  </xsl:choose>
