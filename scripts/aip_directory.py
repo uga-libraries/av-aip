@@ -63,7 +63,7 @@ for item in os.listdir():
     #deletes the original folder after moving all the preservation files into the AIP directory.
     shutil.rmtree(item)
 
-  if workflow == 'mkv' or workflow == 'mov' or workflow == 'mkv-filmscan' or workflow == 'wav':
+  if workflow == 'mkv' or workflow == 'mov' or workflow == 'mkv-filmscan' or workflow == 'wav' or workflow == 'mp4':
 
     if item.endswith('.mkv'):
       if item.endswith('.qctools.mkv'):
@@ -71,7 +71,7 @@ for item in os.listdir():
       else:
         os.replace(item, f'{aip_id}/objects/bmac_{item}')
 
-    if item.endswith('.mov') or item.endswith('.wav'):
+    if item.endswith('.mov') or item.endswith('.wav') or item.endswith('.mp4'):
       os.replace(item, f'{aip_id}/objects/bmac_{item}')
 
     if item.endswith('.qctools.xml.gz'):
