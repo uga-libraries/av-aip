@@ -34,7 +34,7 @@ if len(sys.argv) != 4:
 
 # Tests the workflow type, which should be dpx, mkv, mkv-filmscan, mov, or mxf.
 if len(sys.argv) > 1:
-  workflow_types = ['dpx', 'mkv', 'mkv-filmscan', 'mov', 'mxf', 'wav']
+  workflow_types = ['dpx', 'mkv', 'mkv-filmscan', 'mov', 'mxf', 'wav', 'mp4']
   if sys.argv[1] in workflow_types:
     workflow = sys.argv[1]
   else:
