@@ -40,24 +40,27 @@ else:
 # Checks every zipped AIP for temporary files.
 # We have had .DS_Store present in zipped AIPs, even though they are deleted before zipping.
 zip_folder = f'{aip_staging}/aips-ready-to-ingest/'
+os.chdir(zip_folder)
 zip_total = len(os.listdir(zip_folder))
 zip_count = 0
-for zip_file in os.listdir(zip_folder):
+for zip_file in os.listdir('.'):
     zip_count += 1
     print(f'Checking for temporary files in zipped AIP {zip_count} of {zip_total}.')
     if zip_file.endswith('.tar'):
-        with tarfile.open(os.path.join(zip_folder, zip_file)) as tar:
+        with tarfile.open(zip_file) as tar:
             file_paths_list = tar.getnames()
     elif zip_file.endswith('.tar.bz2'):
-        with bz2.BZ2File(os.path.join(zip_folder, zip_file), 'rb') as bz2_file:
+        with bz2.BZ2File(zip_file, 'rb') as bz2_file:
             with tarfile.open(fileobj=bz2_file) as tar:
                 file_paths_list = tar.getnames()
     else:
         print(f"Cannot check {zip_file} for temp files. Does not end in .tar or .tar.bz2")
         continue
 
-    # Prints any AIP with a temp file (starts with "."), along with the file path of the temp file.
+    # If there is a temp file (file name starts with "."), move the zipped AIP to an error folder.
+    # It moves the zipped AIP as soon as a temp file is found and does not check for more.
     for file_path in file_paths_list:
         file_name = re.split(r"\\|/", file_path)[-1]
         if file_name.startswith('.'):
-            print(f"Zipped AIP {zip_file} contains temp file: {file_path}")
+            move_error('temp_in_zip', zip_file)
+            break
