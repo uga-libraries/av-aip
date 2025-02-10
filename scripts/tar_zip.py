@@ -1,9 +1,11 @@
 # Purpose: if MKV, tar ONLY each aip folder. All others: tar and zip each aip folder.
 # Dependencies: prepare_bag perl script, prepare_bag_nozip perl script
-
+import bz2
 import os
+import re
 import shutil
 import subprocess
+import tarfile
 from variables import *
 
 # Recalculating total in case any aips were invalid and moved.
@@ -34,3 +36,25 @@ else:
     tarzip_count += 1
     print(f'Tar/zipping AIP {tarzip_count} of {total}.')
     subprocess.run(f'perl {prepare_bag} {item} {aip_staging}/aips-ready-to-ingest/', shell=True)
+
+# Checks every zipped AIP for temporary files.
+# We have had .DS_Store present in zipped AIPs, even though they are deleted before zipping.
+print('Checking for temp files in the zipped AIPs.')
+zip_folder = f'{aip_staging}/aips-ready-to-ingest/'
+for zip_file in os.listdir(zip_folder):
+    if zip_file.endswith('.tar'):
+        with tarfile.open(os.path.join(zip_folder, zip_file)) as tar:
+            file_paths_list = tar.getnames()
+    elif zip_file.endswith('.tar.bz2'):
+        with bz2.BZ2File(os.path.join(zip_folder, zip_file), 'rb') as bz2_file:
+            with tarfile.open(fileobj=bz2_file) as tar:
+                file_paths_list = tar.getnames()
+    else:
+        print(f"Cannot check {zip_file} for temp files. Does not end in .tar or .tar.bz2")
+        continue
+
+    # Prints any AIP with a temp file (starts with "."), along with the file path of the temp file.
+    for file_path in file_paths_list:
+        file_name = re.split(r"\\|/", file_path)[-1]
+        if file_name.startswith('.'):
+            print(f"Zipped AIP {zip_file} contains temp file: {file_path}")
