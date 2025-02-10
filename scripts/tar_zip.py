@@ -39,9 +39,12 @@ else:
 
 # Checks every zipped AIP for temporary files.
 # We have had .DS_Store present in zipped AIPs, even though they are deleted before zipping.
-print('Checking for temp files in the zipped AIPs.')
 zip_folder = f'{aip_staging}/aips-ready-to-ingest/'
+zip_total = len(os.listdir(zip_folder))
+zip_count = 0
 for zip_file in os.listdir(zip_folder):
+    zip_count += 1
+    print(f'Checking for temporary files in zipped AIP {zip_count} of {zip_total}.')
     if zip_file.endswith('.tar'):
         with tarfile.open(os.path.join(zip_folder, zip_file)) as tar:
             file_paths_list = tar.getnames()
