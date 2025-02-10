@@ -10,10 +10,10 @@ from variables import *
 total = len(os.listdir(aips_directory))
 tarzip_count = 0
 
-# Delete any .DS_Store or Thumbs.db that have appeared since last step
+# Delete any temp files (starts with ".", including .DS_Store) or Thumbs.db that have appeared since last step
 for root, dirs, files in os.walk('.'):
   for item in files:
-    if item == '.DS_Store' or item == 'Thumbs.db':
+    if item.startswith('.') or item == 'Thumbs.db':
       os.remove(f'{root}/{item}')
 
 
