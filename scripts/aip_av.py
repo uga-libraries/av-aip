@@ -29,10 +29,10 @@ print(f'Script to prepare AV data for AIP ingest: {workflow} workflow, script ve
 
 os.chdir(aips_directory)
 
-# Delete any .DS_Store or Thumbs.db because they cause errors with the scripts and with bag validation.
+# Delete any temporary files (like .DS_Store) or Thumbs.db because they cause errors with the scripts and with bag validation.
 for root, dirs, files in os.walk('.'):
   for item in files:
-    if item == '.DS_Store' or item == '._.DS_Store' or item == 'Thumbs.db':
+    if item.startswith('.') or item == 'Thumbs.db':
       os.remove(f'{root}/{item}')
 
 # Run each of the scripts. Need to give the arguments each time or importing variables.py will give validation errors.
