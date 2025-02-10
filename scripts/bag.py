@@ -9,10 +9,10 @@ from variables import *
 
 print('\n>>>Packaging AIPs...\n')
 
-# Delete any .DS_Store or Thumbs.db because they cause errors with bag validation.
+# Delete any temp files (starts with ".", including .DS_Store) or Thumbs.db because they cause errors with bag validation.
 for root, dirs, files in os.walk('.'):
   for item in files:
-    if item == '.DS_Store' or item == 'Thumbs.db':
+    if item.startswith('.') or item == 'Thumbs.db':
       os.remove(f'{root}/{item}')
 	  
 	  
