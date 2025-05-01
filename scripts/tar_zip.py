@@ -62,5 +62,6 @@ for zip_file in os.listdir('.'):
     for file_path in file_paths_list:
         file_name = re.split(r"\\|/", file_path)[-1]
         if file_name.startswith('.'):
+            print(f'Hidden file found: {file_path}')
             move_error('temp_in_zip', zip_file)
             break
